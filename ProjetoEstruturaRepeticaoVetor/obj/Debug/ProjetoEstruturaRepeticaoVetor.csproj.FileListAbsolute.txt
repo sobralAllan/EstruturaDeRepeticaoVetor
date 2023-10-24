@@ -1,0 +1,8 @@
+C:\Users\allan.ssilva4\source\repos\ProjetoEstruturaRepeticaoVetor\ProjetoEstruturaRepeticaoVetor\bin\Debug\ProjetoEstruturaRepeticaoVetor.exe.config
+C:\Users\allan.ssilva4\source\repos\ProjetoEstruturaRepeticaoVetor\ProjetoEstruturaRepeticaoVetor\bin\Debug\ProjetoEstruturaRepeticaoVetor.exe
+C:\Users\allan.ssilva4\source\repos\ProjetoEstruturaRepeticaoVetor\ProjetoEstruturaRepeticaoVetor\bin\Debug\ProjetoEstruturaRepeticaoVetor.pdb
+C:\Users\allan.ssilva4\source\repos\ProjetoEstruturaRepeticaoVetor\ProjetoEstruturaRepeticaoVetor\obj\Debug\ProjetoEstruturaRepeticaoVetor.csproj.AssemblyReference.cache
+C:\Users\allan.ssilva4\source\repos\ProjetoEstruturaRepeticaoVetor\ProjetoEstruturaRepeticaoVetor\obj\Debug\ProjetoEstruturaRepeticaoVetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.ssilva4\source\repos\ProjetoEstruturaRepeticaoVetor\ProjetoEstruturaRepeticaoVetor\obj\Debug\ProjetoEstruturaRepeticaoVetor.csproj.CoreCompileInputs.cache
+C:\Users\allan.ssilva4\source\repos\ProjetoEstruturaRepeticaoVetor\ProjetoEstruturaRepeticaoVetor\obj\Debug\ProjetoEstruturaRepeticaoVetor.exe
+C:\Users\allan.ssilva4\source\repos\ProjetoEstruturaRepeticaoVetor\ProjetoEstruturaRepeticaoVetor\obj\Debug\ProjetoEstruturaRepeticaoVetor.pdb
